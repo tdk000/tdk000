@@ -8,4 +8,4 @@
 
 ## Контакты
 
-- Email: tdk00@internet.ru
+- Email: tdk000@internet.ru
