@@ -12,6 +12,7 @@
 - [audio-player-python](https://github.com/tdk000/audio-player-python) — Аудиоплеер для Windows на Python (tkinter + pygame). Плейлист, теги ID3, конвертер M4A→MP3, тесты.
 - [cassiopeia-app](https://github.com/tdk000/cassiopeia-app) — Cassiopeia Station: PWA-плеер онлайн-радио.
 - [aura-app](https://github.com/tdk000/aura-app) — Aura: визуализатор звука с радио Cassiopeia.
+- (https://tdk000.github.io/aura-app/)
 - [simple-launcher](https://github.com/tdk000/simple-launcher) — Лаунчер на Java.
 - [android-debloat-tools](https://github.com/tdk000/android-debloat-tools) — Инструменты для удаления лишних системных приложений на Android (Python).
 
